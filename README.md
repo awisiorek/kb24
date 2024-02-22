@@ -39,7 +39,7 @@ folgt
 |  Do, 09.05.2024 | *(Feiertag)* |
 |  Do, 16.05.2024 |  - | **3** | ***Shell*-Encoding und Textmanipulation mit *sed***  |
 |  Do, 23.05.2024 |   **4** | ***Python*-Korpusverarbeitung mit *NLTK*** |
-|  Do, 01.06.2024 |  - | *(Feiertag)* |
+|  Do, 30.05.2024 |  - | *(Feiertag)* |
 |  Do, 06.06.2024 | **5** |  ***Python*-Korpusverarbeitung mit *pandas* & *scikit-learn*** |
 |  Do, 13.06.2024 | **6** | ***Python*-Korpusannotation mit *stanza*** |
 |  Do, 20.06.2024 |  **7a** | **XML-Korpora** |
