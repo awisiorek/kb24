@@ -20,7 +20,7 @@ Die Veranstaltung wird als hybride Vorlesung in Präsenz (Raum B001) stattfinden
 
 ## Moodle-Kursseite:
 
-folgt
+https://moodle.lmu.de/course/view.php?id=32610
 
 
 - Die Anmeldung in Moodle ist verpflichtend (Moodle dient als Kommunikations- und Verwaltungsplattform).
