@@ -53,6 +53,6 @@ https://moodle.lmu.de/course/view.php?id=32610
 
 | Datum  | Termin | 
 | ------------- | ------------- | 
-|  Do, 11.07.2023 |  14 Uhr   | 
+|  Do, 11.07.2024 |  14 Uhr   | 
 
 
