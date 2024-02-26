@@ -42,9 +42,9 @@ https://moodle.lmu.de/course/view.php?id=32610
 |  Do, 30.05.2024 |  - | *(Feiertag)* |
 |  Do, 06.06.2024 | **5** |  ***Python*-Korpusverarbeitung mit *pandas* & *scikit-learn*** |
 |  Do, 13.06.2024 | **6** | ***Python*-Korpusannotation mit *stanza*** |
-|  Do, 20.06.2024 |  **7a** | **XML-Korpora** |
-|  Do, 27.06.2024 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
-|  Do, 04.07.2024 |   | ***KLAUSURVORBEREITUNG*** |
+|  Do, 20.06.2024 |  **7a** | ***XML*-Korpora** |
+|  Do, 27.06.2024 |  **7b** |  ***XML*-Parsing** + **PROBEKLAUSUR** |
+|  Do, 04.07.2024 |   | **KLAUSURVORBEREITUNG** |
 |  Do, 11.07.2024 |   | **KLAUSUR** |
 |  Do, 18.07.2024 |  8+9 | POS-Tagging und Korpus-APIs |
 
