@@ -37,7 +37,7 @@ https://moodle.lmu.de/course/view.php?id=32610
 |  Do, 25.04.2024 |   **1** | ***Shell*-Skripte** |
 |  Do, 02.05.2024 |  **2** | ***Shell*-Korpusverarbeitung** |
 |  Do, 09.05.2024 | *(Feiertag)* |
-|  Do, 16.05.2024 |  - | **3** | ***Shell*-Encoding und Textmanipulation mit *sed***  |
+|  Do, 16.05.2024 | **3** | ***Shell*-Encoding und Textmanipulation mit *sed* und *awk***  |
 |  Do, 23.05.2024 |   **4** | ***Python*-Korpusverarbeitung mit *NLTK*** |
 |  Do, 30.05.2024 |  - | *(Feiertag)* |
 |  Do, 06.06.2024 | **5** |  ***Python*-Korpusverarbeitung mit *pandas* & *scikit-learn*** |
