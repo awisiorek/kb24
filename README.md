@@ -7,14 +7,14 @@
 
 ## Aktuelles:
 
-Die Veranstaltung wird als hybride Vorlesung in Präsenz (Raum B001) stattfinden und gleichzeitig über Zoom übertragen werden.
+Die Veranstaltung findet in Präsenz in Raum B001 (Oettingenstr. 67) statt; sie wird gleichzeitig über Zoom übertragen.
 
 
 ## Termine:
 
-- Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: B001
+- Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: B001 (Oettingstr. 67)
 
-- Tutorium: folgt, Raum: folgt
+- Tutorium: Fr 14:15-15:45 (Jingwen Xu), Raum: U127 (Oettingstr. 67)
 
 
 
