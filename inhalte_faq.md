@@ -5,7 +5,7 @@
 
 ## Inhalte und Themen der Vorlesung
 
-> Im Teilmodul Korpusbearbeitung werden Programmiertechniken und -werkzeuge vorgestellt, mit denen **Textkorpora analysiert** und für die weitere Bearbeitung **annotiert** werden können. In der Vorlesung werden mit Hilfe von Programmen in einer **Skriptsprache**, speziellen Anwendungen und  **Betriebssystemtools** große Korpora erschlossen, verarbeitet und linguistisch annotiert. Es werden wichtige Aufgaben der Korpusbearbeitung, wie z.B. **Textkonvertierungen, Tokenisierungen, Erstellen von Frequenzlisten, Konkordanzen, n-Gramm-Extraktion** vorgestellt und Lösungen erarbeitet. Parallel dazu werden auch einige **exemplarisch** ausgewählte Korpora und **Verfahren der Arbeit mit Korpora** vorgestellt und damit gearbeitet. (https://www.cis.lmu.de/download/spo/cl_bsc_modulhandbuch.pdf#page=17)
+> Im Teilmodul Korpusbearbeitung werden Programmiertechniken und -werkzeuge vorgestellt, mit denen **Textkorpora analysiert** und für die weitere Bearbeitung **annotiert** werden können. In der Vorlesung werden mit Hilfe von Programmen in einer **Skriptsprache**, speziellen Anwendungen und  **Betriebssystemtools** große Korpora erschlossen, verarbeitet und linguistisch annotiert. Es werden wichtige Aufgaben der Korpusbearbeitung, wie z.B. **Textkonvertierungen, Tokenisierungen, Erstellen von Frequenzlisten, Konkordanzen, n-Gramm-Extraktion** vorgestellt und Lösungen erarbeitet. Parallel dazu werden auch einige **exemplarisch** ausgewählte Korpora und **Verfahren der Arbeit mit Korpora** vorgestellt und damit gearbeitet. (Auszug aus dem Modulhandbuch)
 
 
 ### Tools für die Verarbeitung von Korpusdaten (großen Textsammlungen):
