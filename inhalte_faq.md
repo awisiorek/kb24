@@ -70,6 +70,56 @@ oder führen Sie (*innerhalb des Git-Verzeichnisses*) folgenden Befehl aus:
 git pull origin main
 ```
 
+*Q: Ich habe lokale Änderungen im Git-Repository und möchte Updates aus dem Remote-Repository abrufen. Welche Optionen gibt es?*
+
+Es gibt drei Optionen:
+
+A: Sie können Ihre Änderungen vorübergehend verstecken (*stashen*), die Änderungen vom Remote-Repository abrufen und dann Ihre Änderungen erneut anwenden.
+```bash
+git stash
+git pull
+git stash pop
+```
+
+B: Sie können Ihre Änderungen lokal committen, dann die Änderungen vom Remote-Repository abrufen und schließlich Ihre Änderungen mit dem aktualisierten Remote-Branch zusammenführen oder neu basieren.
+```bash
+git commit -m "Ihre Commit-Nachricht"
+git pull
+# Then, merge or rebase your changes with the updated remote branch
+```
+
+C: Sie können das Pull erzwingen (nicht empfohlen, wenn Sie nicht committete Änderungen behalten möchten), um Ihre lokalen Änderungen zu überschreiben, jedoch werden dadurch Ihre lokalen Änderungen verworfen.
+```bash
+git fetch --all
+git reset --hard origin/main #or other <branch_name>
+```
+
+
+
+*Q: Wie kann ich den Status meines Git-Repositories überprüfen*<br/>
+```bash
+git status
+```
+
+*Q: Wie kann ich Konflikte in Git auflösen?*
+
+Nachdem Konflikte während eines Merge oder einer anderen Operation aufgetreten sind:
+1. Konflikte in den betroffenen Dateien manuell auflösen
+2. Die aufgelösten Dateien für die Staging-Area markieren
+3. Die aufgelösten Dateien commiten, um den Merge abzuschließen
+
+Beispiel:
+Konflikte in 'file.txt' manuell auflösen
+Markieren der aufgelösten Datei für die Staging-Area:
+```bash
+git add file.txt
+```
+
+Commiten der aufgelösten Änderungen:
+```bash
+git commit -m "Konflikte in file.txt aufgelöst"
+```
+
 
 
 
