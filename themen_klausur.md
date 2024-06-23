@@ -12,17 +12,16 @@
 
 ## 2. Korpusverarbeitung mit der shell 
 
-- Textwerkzeuge: echo, wc, grep, tr, sort, uniq
+- Textwerkzeuge: sed, grep, head, echo, tr, sort, uniq, ...
 - Frequenzlisten, Bigramme
-- Tools für Textverabreitung: sed (aktiv), awk (passiv)
 
 
 
 ## 3. Unicode und Zeichenkodierung 
 
 - Kodierungen: ASCII, Latin/ISO-8859, UTF8
-- kombinierende Zeichen
-- Zählen von Bytes und Zeichen mit wc 
+- Zählen von Wörtern, Bytes und Zeichen mit wc 
+- Kombinierende Zeichen
 - Encoding in Python: unicodedata,  encode/decode
 - *(nicht relevant: UNIX-Tools für Kodierung: uconv/iconv, recode, hexdump, file)*
 
@@ -37,12 +36,10 @@
 
 
 
-## 5. Korpusverarbeitung in Python mit pandas und scikit-learn
+## 5. Korpusverarbeitung in Python mit pandas
 
-- pandas: Arbeiten mit Dataframes
-- Berechnung von Frequenzlisten mit pandas-Methoden bzw. Counter
-- scikit-learn: Train-Test-Split
-- scikit-learn: CountVectorizer 
+- Arbeiten mit Dataframes
+- Berechnung von Frequenzlisten/Korpusstatistiken mit pandas-Methoden bzw. Counter
 
 
 
