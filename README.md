@@ -46,7 +46,7 @@ https://moodle.lmu.de/course/view.php?id=32610
 |  Do, 27.06.2024 |  **7b** |  ***XML*-Parsing** + **PROBEKLAUSUR** |
 |  Do, 04.07.2024 |   | **KLAUSURVORBEREITUNG** |
 |  Do, 11.07.2024 |   | **KLAUSUR** |
-|  Do, 18.07.2024 |  8+9 | POS-Tagging und Korpus-APIs |
+|  Do, 18.07.2024 |  8+9 | [Aufgabe 7.2 POS-Extraktion aus TCF-XML](https://github.com/awisiorek/kb22/blob/main/07_xml_corpus/07_aufgaben/07_aufgaben.ipynb)<br>[8. Erzeugen eigener POS-Tagger](https://github.com/awisiorek/kb22/blob/main/08_pos_tagging/08_pos_tagging.ipynb)<br>[9. Korpus-APIs (DTA) und Webcrawler](https://github.com/awisiorek/kb22/blob/main/09_corpus_api/09_api.ipynb) |
 
 
 ## Klausur:
